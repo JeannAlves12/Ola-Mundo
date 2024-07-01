@@ -64,3 +64,7 @@ else:
 
 
 Olá, pequeno Gafanhoto 🖖 ✈️ 🤙(dois pontos e o nome do emogi)
+
+Como diria @gustavoguanabara "Eu estou com sono"(@ as vezes marca alguem)
+
+Se consegue fazer reply de outras respostas em uma issue
